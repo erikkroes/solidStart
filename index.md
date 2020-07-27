@@ -11,7 +11,7 @@ Are you a person that makes things for other people? Awesome—because this page
 ## Table of Contents
 
 <ol>
-  <li>[Four things to get started](#four-things)
+  <li><a href="#four-things">Four things to get started</a>
     <ol>
       <li></li>
     </ol>
@@ -59,8 +59,8 @@ This page is not a collaboration without contributions. It has been created by E
 
 1. 
 
-  - https://www.w3.org/WAI/WCAG21/quickref/?currentsidebar=%23col_customize&tags=keyboard
+  - https://www.w3.org/WAI/WCAG21/quickref/?tags=keyboard
 
 2. 
 
-  - https://www.w3.org/WAI/WCAG21/quickref/?currentsidebar=%23col_customize&tags=contrast
+  - https://www.w3.org/WAI/WCAG21/quickref/?&tags=contrast

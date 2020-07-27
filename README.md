@@ -1,15 +1,3 @@
-# Page header
+# Solid Start
 
-
-## Why Accessibility matters
-
-## Three things to get started
-Assuming you can write basic valid HTML
-
-### 1. Keyboard
-
-### 2. Contrast
-
-### 3.
-
-## Resources
+A page that people can point to when they are looking for a solid start. All four tips are testable, fixable and they improve usability for everybody.
