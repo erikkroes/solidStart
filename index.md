@@ -20,6 +20,8 @@ Are you a person that makes things for other people? Awesome—because this page
 
 <h2 id="four-things">Four things to get started</h2>
 
+Before you 
+
 ### 1. Keyboard
 
 You are not building for you.
@@ -30,7 +32,7 @@ People might feel lost when they don’t know where they are. Make sure it is cl
 ### 2. Contrast
 
 It can be hard to communicate if your content isn’t visible to people. Contrast can help with this. 
-There are many tools to measure contrast. The Color Contrast Analyser is used by a lot of people. You can also pick a tool from the resources, or one that might already be inside your favorite environment. Each tool will give you a contrast ratio between two colors, like a foreground and background color. The visibility of a higher contrast ratio is better. Although pure black and white can be too harsh for people.
+There are many tools to measure contrast. The [Color Contrast Analyser](https://developer.paciellogroup.com/resources/contrastanalyser/) is used by a lot of people. You can also pick a tool from the resources, or one that might already be inside your favorite environment. Each tool will give you a contrast ratio between two colors, like a foreground and background color. The visibility of a higher contrast ratio is better. Although pure black and white can be too harsh for people.
 The contrast ratio of large text (at least 24px, or at least 19px and bold) should be 3.0:1 or more. All other text should be at least 4.5:1. User interface components and states should have a contrast ratio of at least 3.0:1 as well. Measure this ratio against their surrounding colors.
 
 ### 3. Alternatives
@@ -57,10 +59,16 @@ This page is not a collaboration without contributions. It has been created by E
 
 ### Resources
 
-1. 
+- [WCAG Quick Reference](https://www.w3.org/WAI/WCAG21/quickref/)
+- [Color Contrast Analyser](https://developer.paciellogroup.com/resources/contrastanalyser/)
+- [Contrast Grid](https://contrast-grid.eightshapes.com/) - A great tool for color palettes
+- [An alt Decision Tree](https://www.w3.org/WAI/tutorials/images/decision-tree/) - A W3 tool to determine the content of text alternatives for images.
+- [The WebAIM Million](https://webaim.org/projects/million/) - An annual accessibility analysis of the top 1,000,000 home pages
+- [axe](https://www.deque.com/axe/) - An open source automated tool for testing some web accessibility. Great for learning and awareness.
+- [Screen Reader Reference](https://dequeuniversity.com/screenreaders/)
 
-  - https://www.w3.org/WAI/WCAG21/quickref/?tags=keyboard
+#### Courses
 
-2. 
-
-  - https://www.w3.org/WAI/WCAG21/quickref/?&tags=contrast
+- [Web Accessibility by Google at Udacity](https://www.udacity.com/course/web-accessibility--ud891)
+- [Digital Accessibility by University of Southampton at Future Learn](https://www.futurelearn.com/courses/digital-accessibility)
+- [ICT Accessibility by Georgia Tech at edX](https://www.edx.org/course/information-and-communication-technology-ict-acces)
