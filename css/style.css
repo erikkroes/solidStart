@@ -15,3 +15,8 @@ main {
   max-width: 70ch;
   padding: 1rem;
 }
+
+code {
+  background-color: #eee;
+  color: #2d2d35;
+}
