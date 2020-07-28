@@ -38,7 +38,7 @@ People might feel lost when they don’t know where they are. Make sure it is cl
 <h3 id="contrast">2. Contrast</h3>
 
 It can be hard to communicate if your content isn’t visible to people. Contrast can help with this. 
-There are many tools to measure contrast. The [Color Contrast Analyser](https://developer.paciellogroup.com/resources/contrastanalyser/) is used by a lot of people. You can also pick a tool from the resources, or one that might already be inside your favorite environment. Each tool will give you a contrast ratio between two colors, like a foreground and background color. The visibility of a higher contrast ratio is better. Although pure black and white can be too harsh for people.
+There are many tools to measure contrast by providing a ratio. The [Color Contrast Analyser](https://developer.paciellogroup.com/resources/contrastanalyser/) is used by a lot of people. You can also pick a tool from the resources, or one that might already be inside your favorite environment. Each tool will give you a contrast ratio between two colors, like a foreground and background color. The visibility of a higher contrast ratio is better. Pure black and white can be too harsh for people.
 The contrast ratio of large text (at least 24px, or at least 19px and bold) should be 3.0:1 or more. All other text should be at least 4.5:1. User interface components and states should have a contrast ratio of at least 3.0:1 as well. Measure this ratio against their surrounding colors.
 
 <h3 id="alternatives">3. Alternatives</h3>
