@@ -70,7 +70,7 @@ This page is not a collaboration without contributions. It has been created by E
 - [Contrast Grid](https://contrast-grid.eightshapes.com/) - A great tool for color palettes
 - [An alt Decision Tree](https://www.w3.org/WAI/tutorials/images/decision-tree/) - A W3 tool to determine the content of text alternatives for images.
 - [The WebAIM Million](https://webaim.org/projects/million/) - An annual accessibility analysis of the top 1,000,000 home pages
-- [axe](https://www.deque.com/axe/) - An open source automated tool for testing partial web accessibility. Great for learning and awareness.
+- [Axe](https://www.deque.com/axe/) - An open source automated tool for testing partial web accessibility. Great for learning and awareness.
 - [Screen Reader Reference](https://dequeuniversity.com/screenreaders/)
 
 <h3 id="courses">Courses</h3>
