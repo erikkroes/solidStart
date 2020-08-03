@@ -32,7 +32,7 @@ There is one big assumption in this guide. It assumes you know the basics of you
 
 You are not building for you.
 Not everybody uses a mouse, so you shouldn’t test with just a mouse. The most universal device to test with is a keyboard. A lot of people either use a keyboard, or use something that interacts with your creation like a keyboard.
-Pressing the `Tab` key should take you to every interactive element in an intuitive order. Pressing `Shift+Tab` should take you the opposite way. If you can reach **and** use every bit of functionality, you’re off to a good start. 
+Pressing the <kbd>Tab</kbd> key should take you to every interactive element in an intuitive order. Pressing <kbd>Shift+Tab</kbd> should take you the opposite way. If you can reach **and** use every bit of functionality, you’re off to a good start. 
 People might feel lost when they don’t know where they are. Make sure it is clear which element is focused.
 
 <h3 id="contrast">2. Contrast</h3>
@@ -43,7 +43,7 @@ The contrast ratio of large text (at least 24px, or at least 19px and bold) shou
 
 <h3 id="alternatives">3. Alternatives</h3>
 
-Ever tried to watch a movie in a busy place, or listen to a podcast without headphones? When you can’t see or hear, a text is nice to have as an alternative! 
+Ever tried to watch a movie in a busy place, or listen to a podcast without headphones? When you can’t see or hear, a text is a nice alternative to have! 
 Offer captions for video. Offer a transcript for podcasts. For images, offer text alternatives. Text alternatives should convey the purpose of the image or the content of the image. A decorative image needs no alternative.
 
 <h3 id="sizing">4. Sizing</h3>
