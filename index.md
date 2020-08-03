@@ -74,7 +74,7 @@ This page is not a collaboration without contributions. It has been created by E
 - [WCAG Quick Reference](https://www.w3.org/WAI/WCAG21/quickref/)
 - [Color Contrast Analyser](https://developer.paciellogroup.com/resources/contrastanalyser/)
 - [Contrast Grid](https://contrast-grid.eightshapes.com/) - A great tool for color palettes
-- [An alt Decision Tree](https://www.w3.org/WAI/tutorials/images/decision-tree/) - A W3 tool to determine the content of text alternatives for images.
+- [An alt Decision Tree](https://www.w3.org/WAI/tutorials/images/decision-tree/) - A W3C tool to determine the type of text alternative for images.
 - [The WebAIM Million](https://webaim.org/projects/million/) - An annual accessibility analysis of the top 1,000,000 home pages
 - [Axe](https://www.deque.com/axe/) - An open source automated tool for testing partial web accessibility. Great for learning and awareness.
 - [Screen Reader Reference](https://dequeuniversity.com/screenreaders/)
