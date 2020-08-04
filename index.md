@@ -6,7 +6,7 @@ twitter:
 
 # Solid Start
 
-Are you a person that makes things for other people? Awesome—because this page is all about making things for people. There are four ways you can improve your creation for everybody. All four are testable, fixable and they improve usability for everybody.
+Are you a person that makes digital things for other people? Awesome—because this page is all about making things for people. There are four ways you can improve your creation for everybody. All four are testable, fixable and they improve usability for everybody.
 
 ## Table of Contents
 
