@@ -84,3 +84,4 @@ This page is not a collaboration without contributions. It has been created by E
 - [Web Accessibility by Google at Udacity](https://www.udacity.com/course/web-accessibility--ud891)
 - [Digital Accessibility by University of Southampton at Future Learn](https://www.futurelearn.com/courses/digital-accessibility)
 - [ICT Accessibility by Georgia Tech at edX](https://www.edx.org/course/information-and-communication-technology-ict-acces)
+- [Several Accessibility courses by The A11Y Collective](https://a11y-collective.com/courses-overview/?utm_medium=website&utm_source=solidStart&utm_campaign=referral)
