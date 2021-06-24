@@ -1,7 +1,5 @@
 ---
 layout: layout.html
-twitch:
-twitter:
 ---
 
 # Solid Start
@@ -66,7 +64,6 @@ This is also just a first step, and there’s more you can do. Want to know more
 This page is not a collaboration without contributions. It has been created by Erik Kroes with the help of Eric Bailey, Ashley Bischoff, Eric Eggert, Pascal Schilp and others. Your help can make it even better. Create inclusively.
 
 - Contribute on [GitHub](https://github.com/erikkroes/solidStart)
-- Join a weekly accessibility stream on [Twitch](https://twitch.tv/erikKroes)
 - Follow on [Twitter](https://twitter.com/erikKroes)
 
 <h2 id="resources">Resources</h2>
