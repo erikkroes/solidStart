@@ -4,12 +4,12 @@ layout: layout.html
 
 # Solid Start
 
-Are you a person that makes digital things for other people? Awesome—because this page is all about making things for people. There are four ways you can improve your creation for everybody. All four are testable, fixable and they improve usability for everybody.
+Are you a person that makes digital things for other people? Awesome—because this page is all about making things for people. There are four ways you can improve your creation for everybody. All four ways are testable, fixable and they improve usability for everybody.
 
 ## Table of Contents
 
 <ul>
-  <li><a href="#four-things">Four things to get started</a>
+  <li><a href="#four-things">Four improvements</a>
     <ol>
       <li><a href="#keyboard">Keyboard</a></li>
       <li><a href="#contrast">Contrast</a></li>
@@ -22,7 +22,7 @@ Are you a person that makes digital things for other people? Awesome—because t
   <li><a href="#resources">Resources</a></li>
 </ul>
 
-<h2 id="four-things">Four things to get started</h2>
+<h2 id="four-things">Four improvements</h2>
 
 There is one big assumption in this guide. It assumes you know the basics of your tools. Validate your code.
 
@@ -39,7 +39,7 @@ People might feel lost when they don’t know where they are. Make sure it is cl
 
 It can be hard to communicate if your content isn’t visible to people. Contrast can help with this. 
 
-There are many tools to measure contrast by providing a ratio. The [Color Contrast Analyser](https://developer.paciellogroup.com/resources/contrastanalyser/) is used by a lot of people. You can also pick a tool from the resources, or one that might already be inside your favorite environment. Each tool will give you a contrast ratio between two colors, like a foreground and background color. The visibility of a higher contrast ratio is better. Pure black and white can be too harsh for people.
+There are many tools to measure contrast by providing a ratio. The [Color Contrast Analyser](https://developer.paciellogroup.com/resources/contrastanalyser/) is used by a lot of people. You can also pick a tool from the [resources](#resources), or one that might already be inside your favorite environment. Each tool will give you a contrast ratio between two colors, like a foreground and background color. The visibility of a higher contrast ratio is better. Pure black and white can be too harsh for people.
 
 User interface components and states should have a contrast ratio of at least **3.0:1**. Measure this ratio against their surrounding colors. The contrast ratio of large text (at least 24px, or at least 19px and bold) should be **3.0:1** or more. All other text should be at least **4.5:1**. These are minimum requirements, not goals.
 
@@ -57,11 +57,11 @@ Compare a mobile phone to a tablet, a laptop or a PC. No screen size is the same
 
 Congratulations! Follow these steps and you're helping a lot of people. 
 
-This is also just a first step, and there’s more you can do. Want to know more about Inclusive Design and WCAG (Web Content Accessibility Guidelines)? Check the resources!
+This is also just a first step, and there’s more you can do. Want to know more about Inclusive Design and WCAG (Web Content Accessibility Guidelines)? Check the [resources](#resources)!
 
 <h2 id="contributions">Contributions</h2>
 
-This page is not a collaboration without contributions. It has been created by Erik Kroes with the help of Eric Bailey, Ashley Bischoff, Eric Eggert, Pascal Schilp and others. Your help can make it even better. Create inclusively.
+This page is not a collaboration without contributions. Your help can make it even better. Create inclusively.
 
 - Contribute on [GitHub](https://github.com/erikkroes/solidStart)
 - Follow on [Twitter](https://twitter.com/erikKroes)
