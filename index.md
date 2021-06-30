@@ -4,7 +4,7 @@ layout: layout.html
 
 # Solid Start
 
-Are you a person that makes digital things for other people? Awesome—because this page is all about making things for people. There are four ways you can improve your creation for everybody. All four ways are testable, fixable and they improve usability for everybody.
+Do you make digital things for other people? Awesome—because this page is all about making for people. There are four ways you can improve your creation for everybody. All four ways are testable, fixable and they improve usability for everybody.
 
 ## Table of Contents
 
@@ -24,7 +24,7 @@ Are you a person that makes digital things for other people? Awesome—because t
 
 <h2 id="four-things">Four improvements</h2>
 
-There is one big assumption in this guide. It assumes you know the basics of your tools. Validate your code.
+There is one big assumption for a solid start. It assumes you know the basics of your tools. Validate your code.
 
 <h3 id="keyboard">1. Keyboard</h3>
 
@@ -33,11 +33,11 @@ Not everybody uses a mouse, so you shouldn’t test with just a mouse. The most 
 
 Pressing the <kbd>Tab</kbd> key should take you to every interactive element in an intuitive order. Pressing <kbd>Shift+Tab</kbd> should take you the opposite way. If you can reach **and** use every bit of functionality, you’re off to a good start.
 
-People might feel lost when they don’t know where they are. Make sure it is clear which element is focused.
+Make sure it is clear which element is focused. People might feel lost when they don’t know where they are. 
 
 <h3 id="contrast">2. Contrast</h3>
 
-It can be hard to communicate if your content isn’t visible to people. Contrast can help with this. 
+Contrast is essential. It can be hard to communicate if your content isn’t visible to people. 
 
 There are many tools to measure contrast by providing a ratio. The [Color Contrast Analyser](https://developer.paciellogroup.com/resources/contrastanalyser/) is used by a lot of people. You can also pick a tool from the [resources](#resources), or one that might already be inside your favorite environment. Each tool will give you a contrast ratio between two colors, like a foreground and background color. The visibility of a higher contrast ratio is better. Pure black and white can be too harsh for people.
 
