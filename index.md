@@ -78,6 +78,7 @@ This page is not a collaboration without contributions. Your help can make it ev
 
 <h3 id="courses">Courses</h3>
 
+- [Digital Accessibility Foundations Free Online Course from W3C WAI on edX](https://www.w3.org/WAI/fundamentals/foundations-course/)
 - [Web Accessibility by Google at Udacity](https://www.udacity.com/course/web-accessibility--ud891)
 - [Digital Accessibility by University of Southampton at Future Learn](https://www.futurelearn.com/courses/digital-accessibility)
 - [ICT Accessibility by Georgia Tech at edX](https://www.edx.org/course/information-and-communication-technology-ict-acces)
