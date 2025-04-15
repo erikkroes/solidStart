@@ -41,7 +41,7 @@ Contrast is essential. It can be hard to communicate if your content isn’t vis
 
 There are many tools to measure contrast by providing a ratio. The [Color Contrast Analyser](https://developer.paciellogroup.com/resources/contrastanalyser/) is used by a lot of people. You can also pick a tool from the [resources](#resources), or one that might already be inside your favorite environment. Each tool will give you a contrast ratio between two colors, like a foreground and background color. The visibility of a higher contrast ratio is better. Pure black and white can be too harsh for people.
 
-User interface components and states should have a contrast ratio of at least **3.0:1**. Measure this ratio against their surrounding colors. The contrast ratio of large text (at least 24px, or at least 19px and bold) should be **3.0:1** or more. All other text should be at least **4.5:1**. These are minimum requirements, not goals.
+User interface components and states should have a contrast ratio of at least **3:1**. Measure this ratio against their surrounding colors. The contrast ratio of large text (at least 24px, or at least 19px and bold) should be **3:1** or more. All other text should be at least **4.5:1**. These are minimum requirements, not goals.
 
 <h3 id="alternatives">3. Alternatives</h3>
 
